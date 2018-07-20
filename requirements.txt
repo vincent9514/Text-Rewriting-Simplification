@@ -1,0 +1,10 @@
+Keras
+jupyter
+numpy
+pandas
+tensorflow
+nltk
+matplotlib
+gensim
+tensorboard
+textacy
